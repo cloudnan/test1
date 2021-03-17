@@ -1,0 +1,18 @@
+device_id:200000001
+ Redis中的时区为:PRC ,mysql中的时区为:['PRC', 'Africa/Casablanca', 'PRC'] ,电站id：((123,), (830,), (2204,))
+device_id:200000300
+ Redis中的时区为:PRC ,mysql中的时区为:['PRC', 'PRC', 'PRC', 'Africa/Casablanca'] ,电站id：((255,), (569,), (750,), (830,))
+device_id:200000479
+ Redis中的时区为:PRC ,mysql中的时区为:['PRC', 'PRC', 'Africa/Casablanca'] ,电站id：((255,), (569,), (830,))
+device_id:200196121
+ Redis中的时区为:PRC ,mysql中的时区为:['PRC', 'America/Sao_Paulo', 'PRC'] ,电站id：((543,), (674,), (677,))
+device_id:200211555
+ Redis中的时区为:Asia/Dacca ,mysql中的时区为:['PRC', 'Asia/Dacca'] ,电站id：((1865,), (2195,))
+device_id:200214100
+ Redis中的时区为:PRC ,mysql中的时区为:['PRC', 'Europe/Amsterdam', 'PRC', 'PRC', 'PRC'] ,电站id：((3174,), (3259,), (3560,), (3595,), (3738,))
+device_id:200215566
+ Redis中的时区为:US/Central ,mysql中的时区为:['EET', 'PRC', 'US/Central'] ,电站id：((895,), (3350,), (3387,))
+device_id:200216955
+ Redis中的时区为:PRC ,mysql中的时区为:['PRC', 'Africa/Casablanca', 'PRC'] ,电站id：((3457,), (3460,), (3507,))
+device_id:200220289
+ Redis中的时区为:PRC ,mysql中的时区为:['Etc/GMT+12', 'PRC'] ,电站id：((3520,), (3718,))
